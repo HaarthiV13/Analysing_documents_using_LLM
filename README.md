@@ -260,7 +260,7 @@ This project is licensed under the [MIT License](LICENSE.txt).
 
 ## 📧 Contact
 
-For any inquiries or feedback, please reach out to [Jitendra Kolli](jitendrakolli18@gmail.com).
+For any inquiries or feedback, please reach out to [Haarthi Vallabhaneni](haarthivallabhaneni13@gmail.com).
 
 ---
 
